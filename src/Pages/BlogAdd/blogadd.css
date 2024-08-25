@@ -1,0 +1,28 @@
+.blog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.blog3{
+    margin: 40px;
+    box-shadow: 0 10px 40px -14px rgba(0, 0, 0, 0.25);
+}
+
+.blog2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    flex-direction: column;
+    gap: 20px;
+}
+.tex{
+    width: 400px;
+}
+
+.btn{
+    background-color: #35A556;
+    color: aliceblue;
+}
